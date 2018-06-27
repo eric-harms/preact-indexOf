@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/preact-indexOf.svg)](https://badge.fury.io/js/preact-indexOf)
+[![npm version](https://badge.fury.io/js/preact-indexof.svg)](https://badge.fury.io/js/preact-indexof)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
 # preact-indexOf
