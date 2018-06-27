@@ -21,7 +21,7 @@ module.exports = {
 	output: {
 		path: path.resolve(__dirname, 'builds'),
 		filename: "index.js",
-		library: 'preact-indexOf',
+		library: 'preact-indexof',
 		libraryTarget: 'umd',		
 	},
 

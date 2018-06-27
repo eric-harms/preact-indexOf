@@ -5,7 +5,7 @@
 
 A tiny wrapper component that renders a child at the specified index.
 
-	import IndexOf from "preact-indexOf";
+	import IndexOf from "preact-indexof";
 
     const Example = () => (
 	    <IndexOf index={0}>
